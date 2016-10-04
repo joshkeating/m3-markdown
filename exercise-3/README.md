@@ -9,3 +9,12 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# cd
+
+You use this to navigate into and around directories. In a file tree that contains `tmp1` and a nested directory `tmp2` and you are currently in tmp1, you can switch into `tmp2` by typing `cd tmp2`
+
+* Use to change directories
+    * can navigate either up with `cd ..` or down with `cd`
+* With tab completion it is faster than useing a GUI to navigate a file system
+
